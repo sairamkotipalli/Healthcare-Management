@@ -1,0 +1,18 @@
+# Angular
+client/node_modules/
+client/dist/
+.angular/
+.cache/
+
+# Spring Boot
+server/target/
+
+# IDE
+.idea/
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
